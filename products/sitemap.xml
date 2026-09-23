@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://modhub.sbs/test4/products/</loc>
+    <loc>https://modhub.sbs/test7/products/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://modhub.sbs/test4/products/news/</loc>
+    <loc>https://modhub.sbs/test7/products/news/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://modhub.sbs/test4/products/news/post3/</loc>
+    <loc>https://modhub.sbs/test7/products/news/post3/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://modhub.sbs/test4/products/news/post2/</loc>
+    <loc>https://modhub.sbs/test7/products/news/post2/</loc>
     <lastmod>2025-02-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://modhub.sbs/test4/products/news/post1/</loc>
+    <loc>https://modhub.sbs/test7/products/news/post1/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://modhub.sbs/test4/products/about/</loc>
+    <loc>https://modhub.sbs/test7/products/about/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://modhub.sbs/test4/products/categories/</loc>
+    <loc>https://modhub.sbs/test7/products/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://modhub.sbs/test4/products/products/</loc>
+    <loc>https://modhub.sbs/test7/products/products/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://modhub.sbs/test4/products/tags/</loc>
+    <loc>https://modhub.sbs/test7/products/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

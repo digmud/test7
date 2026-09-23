@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on My Site -- Test 4</title>
+    <link>https://modhub.sbs/test4/news/</link>
+    <description>Recent content in News on My Site -- Test 4</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://modhub.sbs/test4/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third Test Post</title>
+      <link>https://modhub.sbs/test4/news/post3/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://modhub.sbs/test4/news/post3/</guid>
+      <description>&lt;p&gt;This is the third test post, rounding out the set of sample articles for the news section.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second Test Post</title>
+      <link>https://modhub.sbs/test4/news/post2/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://modhub.sbs/test4/news/post2/</guid>
+      <description>&lt;p&gt;This is the second test post, another placeholder article for the news section to demonstrate multiple posts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Test Post</title>
+      <link>https://modhub.sbs/test4/news/post1/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://modhub.sbs/test4/news/post1/</guid>
+      <description>&lt;p&gt;This is the first test post created for the news section. It serves as placeholder content for testing the Hugo site setup.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
